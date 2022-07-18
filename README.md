@@ -8,4 +8,5 @@ All apps from https://github.com/florinpop17/app-ideas i hope you like :)
 <tr><td>Calculator</td><td>https://github.com/daviiiXD/Calculator-app</td></tr>
 <tr><td>Christmas lights</td><td>https://github.com/daviiiXD/Christmas-ligths</td></tr>
 <tr><td>Cause effect app</td><td>https://github.com/daviiiXD/cause-effect-app</td></tr>
+<tr><td>Color cycle</td><td>https://github.com/daviiiXD/Color-cycle</td></tr>
 </table>
